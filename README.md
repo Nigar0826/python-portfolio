@@ -18,7 +18,7 @@ Debugged and improved a function to find the smallest value in a list without us
 
 ---
 
-## 1. Pattern Drawing in Python – Functions & OOP
+## Pattern Drawing in Python – Functions & OOP
 **Description:**  
 Creates a customizable square pattern using both a standalone function and an object-oriented class structure. Includes input validation, loop-based generation, and modular design for extending to other shapes. Demonstrates procedural programming, OOP, and clean code practices.  
 [View PDF](https://github.com/Nigar0826/python-portfolio/blob/main/Pattern_Drawing_in_Python.pdf)
@@ -31,6 +31,7 @@ Compares two strings to determine equality, using conditional statements and use
 [View PDF](https://github.com/Nigar0826/python-portfolio/blob/main/String_Comparison_and_Conditional_Logic.pdf)
 
 ---
+
 ## Working with Tuples – Indexing, Negative Indexing, and Immutability
 **Description:**  
 Demonstrates tuple operations including indexing, negative indexing, and immutability. Shows examples of data retrieval and tuple deletion.  
@@ -38,7 +39,3 @@ Demonstrates tuple operations including indexing, negative indexing, and immutab
 
 ---
 
-## README.md 
-[View PDF](https://github.com/Nigar0826/python-portfolio/blob/main/README.md)
-
----
