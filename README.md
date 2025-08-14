@@ -32,6 +32,11 @@ Compares two strings to determine equality, using conditional statements and use
 
 ---
 
+## Pattern Drawing in Python – Functions & OOP
+A Python program that draws a customizable square pattern using both a standalone function and an object-oriented class. Includes input validation, loop-based pattern generation, and a scalable design for adding more shapes. Demonstrates procedural programming, OOP principles, and clean code practices.
+
+---
+
 ## 5. Date & Numeric Data Processing – Days in a Year Calculator
 **Description:**  
 Calculates the number of days in a year using string and numeric functions. Demonstrates logical reasoning and date handling in Python.  
